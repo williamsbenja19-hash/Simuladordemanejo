@@ -1,10 +1,11 @@
-{
-  "name": "Simulador de Manejo 3D",
-  "short_name": "Simulador",
+
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "williamsbenja19-hash.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Simulador de Manejo 3D",
   "start_url": "/",
-  "display": "fullscreen",
-  "orientation": "landscape",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "icons": []
+  "theme_color": "#ffffff"
 }
